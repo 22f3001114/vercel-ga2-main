@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {
+      "src": "/latency",
+      "methods": ["POST"],
+      "dest": "api/latency.py"
+    }
+  ]
+}
