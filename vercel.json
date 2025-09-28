@@ -1,4 +1,9 @@
 {
+  "functions": {
+    "api/latency.py": {
+      "runtime": "@vercel/python"
+    }
+  },
   "routes": [
     {
       "src": "/latency",
